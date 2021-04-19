@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projects/3rd-party/3rd-party.iml" filepath="$PROJECT_DIR$/projects/3rd-party/3rd-party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/dev-tomcat/alfresco-dev-tomcat.iml" filepath="$PROJECT_DIR$/projects/dev-tomcat/alfresco-dev-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/file-transfer-receiver/alfresco-file-transfer-receiver.iml" filepath="$PROJECT_DIR$/projects/file-transfer-receiver/alfresco-file-transfer-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/3rd-party/greenmail/alfresco-greenmail.iml" filepath="$PROJECT_DIR$/projects/3rd-party/greenmail/alfresco-greenmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/legacy-lucene/alfresco-legacy-lucene.iml" filepath="$PROJECT_DIR$/projects/legacy-lucene/alfresco-legacy-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/mbeans/alfresco-mbeans.iml" filepath="$PROJECT_DIR$/projects/mbeans/alfresco-mbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/mmt/alfresco-mmt.iml" filepath="$PROJECT_DIR$/projects/mmt/alfresco-mmt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alfresco-parent.iml" filepath="$PROJECT_DIR$/alfresco-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/web-client/alfresco-platform.iml" filepath="$PROJECT_DIR$/projects/web-client/alfresco-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/sdk/alfresco-platform-distribution/alfresco-platform-distribution.iml" filepath="$PROJECT_DIR$/projects/sdk/alfresco-platform-distribution/alfresco-platform-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/remote-api/alfresco-remote-api.iml" filepath="$PROJECT_DIR$/projects/remote-api/alfresco-remote-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/repository/alfresco-repository.iml" filepath="$PROJECT_DIR$/projects/repository/alfresco-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/server-root/alfresco-server-root.iml" filepath="$PROJECT_DIR$/projects/server-root/alfresco-server-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/solr/alfresco-solr.iml" filepath="$PROJECT_DIR$/projects/solr/alfresco-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/solr4/alfresco-solr4.iml" filepath="$PROJECT_DIR$/projects/solr4/alfresco-solr4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/solr-client/alfresco-solrclient.iml" filepath="$PROJECT_DIR$/projects/solr-client/alfresco-solrclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sharepoint/amp/alfresco-spp.iml" filepath="$PROJECT_DIR$/modules/sharepoint/amp/alfresco-spp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/system-build-test/alfresco-system-test.iml" filepath="$PROJECT_DIR$/projects/system-build-test/alfresco-system-test.iml" />
+    </modules>
+  </component>
+</project>

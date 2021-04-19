@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.solr:apache-solr:war:1.4.1-alfrescopatched-20141112">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/apache-solr/1.4.1-alfrescopatched-20141112/apache-solr-1.4.1-alfrescopatched-20141112.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/apache-solr/1.4.1-alfrescopatched-20141112/apache-solr-1.4.1-alfrescopatched-20141112-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/apache-solr/1.4.1-alfrescopatched-20141112/apache-solr-1.4.1-alfrescopatched-20141112-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

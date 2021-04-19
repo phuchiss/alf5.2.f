@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.alfresco.surf:spring-webscripts:tests:6.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/alfresco/surf/spring-webscripts/6.12/spring-webscripts-6.12-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/alfresco/surf/spring-webscripts/6.12/spring-webscripts-6.12-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/alfresco/surf/spring-webscripts/6.12/spring-webscripts-6.12-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

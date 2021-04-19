@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alfresco-solrclient" />
+        <module name="alfresco-mmt" />
+        <module name="alfresco-solr" />
+        <module name="alfresco-repository" />
+        <module name="alfresco-platform" />
+        <module name="alfresco-system-test" />
+        <module name="alfresco-mbeans" />
+        <module name="alfresco-legacy-lucene" />
+        <module name="alfresco-solr4" />
+        <module name="alfresco-file-transfer-receiver" />
+        <module name="alfresco-remote-api" />
+        <module name="alfresco-server-root" />
+        <module name="alfresco-spp" />
+        <module name="alfresco-greenmail" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="3rd-party" target="1.5" />
+      <module name="alfresco-dev-tomcat" target="1.5" />
+      <module name="alfresco-file-transfer-receiver" target="1.8" />
+      <module name="alfresco-greenmail" target="1.8" />
+      <module name="alfresco-legacy-lucene" target="1.8" />
+      <module name="alfresco-mbeans" target="1.8" />
+      <module name="alfresco-mmt" target="1.8" />
+      <module name="alfresco-parent" target="1.5" />
+      <module name="alfresco-platform" target="1.8" />
+      <module name="alfresco-platform-distribution" target="1.5" />
+      <module name="alfresco-remote-api" target="1.8" />
+      <module name="alfresco-repository" target="1.8" />
+      <module name="alfresco-server-root" target="1.8" />
+      <module name="alfresco-solr" target="1.8" />
+      <module name="alfresco-solr4" target="1.8" />
+      <module name="alfresco-solrclient" target="1.8" />
+      <module name="alfresco-spp" target="1.8" />
+      <module name="alfresco-system-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -71,10 +71,10 @@
     <module>projects/mbeans</module>
     <module>projects/repository</module>
     <module>projects/remote-api</module>
-    <module>projects/web-client</module>
-    <module>projects/solr-client</module>
-    <module>projects/solr4</module>
-    <module>projects/solr</module>
+<!--    <module>projects/web-client</module>-->
+<!--    <module>projects/solr-client</module>-->
+<!--    <module>projects/solr4</module>-->
+<!--    <module>projects/solr</module>-->
     <module>projects/file-transfer-receiver</module>
     <module>projects/system-build-test</module>
     <module>modules/sharepoint/amp</module>

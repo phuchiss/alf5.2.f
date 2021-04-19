@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/modules/sharepoint/amp/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/3rd-party/greenmail/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/file-transfer-receiver/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/legacy-lucene/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/mbeans/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/remote-api/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/repository/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/solr-client/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/solr/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/solr4/source/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/web-client/source/java" charset="UTF-8" />
+  </component>
+</project>
