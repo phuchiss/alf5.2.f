@@ -75,10 +75,10 @@
 <!--    <module>projects/solr-client</module>-->
 <!--    <module>projects/solr4</module>-->
 <!--    <module>projects/solr</module>-->
-    <module>projects/file-transfer-receiver</module>
-    <module>projects/system-build-test</module>
-    <module>modules/sharepoint/amp</module>
-    <module>projects/mmt</module>
+<!--    <module>projects/file-transfer-receiver</module>-->
+<!--    <module>projects/system-build-test</module>-->
+<!--    <module>modules/sharepoint/amp</module>-->
+<!--    <module>projects/mmt</module>-->
     <module>projects/sdk/alfresco-platform-distribution</module>
     <module>projects/server-root</module>
   </modules>

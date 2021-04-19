@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="/Users/golf/programming/alfresco/source/test/alf5.2.f/projects/repository/target/classes">
+    <fileset includes="alfresco/messages/**/*.properties,alfresco/workflow/**/*.properties" dir="/Users/golf/programming/alfresco/source/test/alf5.2.f/projects/repository/config"/>
+    <mapper from="^([^_]*).properties$" to="\1_en.properties" type="regexp"/>
+  </copy>
+</target>
+</project>
